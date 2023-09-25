@@ -1,0 +1,39 @@
+.heading{
+    color:rgba(95, 188, 240, 1);
+    font-family: 'Roboto';
+    font-weight: 700;
+  }
+  
+  .card{
+    width:17rem;
+    height:20rem; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+  }
+  .upper{
+    height:5rem;
+  }
+  .wrapper{
+    background-color: rgba(95, 188, 240, 0.33);
+    border: none;
+  }
+  
+  .card-styles{
+    background-color: rgba(95, 188, 240, 1);
+   
+  }
+  .card-styles h5,.card-styles b{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .card-styles b{
+    font-size: 15px;
+  }
+  .members{
+    width:7rem;
+    height:7rem;
+    border-radius: 50% 50%;
+    position: relative;
+    left:5rem;
+    top:3rem;
+  }

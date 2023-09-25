@@ -1,0 +1,23 @@
+.partner{
+    background-color: rgba(95, 188, 240, 0.33);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+  }
+  .heading{
+    color:rgba(95, 188, 240, 1);
+  }
+  .subhead{
+    font-family: 'Roboto';
+    font-weight: 400;
+  }
+  .wrap img{
+    width:15rem;
+    height:12rem;
+  }
+
+  @media (max-width:600px){
+    .wrap img{
+        width:10rem;
+        height:10rem;
+    }
+  }
+  
