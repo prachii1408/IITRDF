@@ -5,7 +5,7 @@ import '../Director/Directors.css'
 const Directors = () => {
   return (
     <>
-    <h4 className='heading m-3'>Board of Directors</h4>
+    <h4 className='heading m-3' id="directors" >Board of Directors</h4>
     <div className='row mx-auto  p-3 ' >
    { members.map((member,index)=> {
     return(

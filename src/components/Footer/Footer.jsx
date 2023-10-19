@@ -6,7 +6,7 @@ import {FaLocationDot} from "react-icons/fa6"
 const Footer = () => {
   return (
     <>
-      <div className="foot p-5 mt-5 row">
+      <div id ="footer" className="foot p-5 mt-5 row">
       <div className='col col-lg-8 col-sm-12 d-flex align-items-center listWrap'>
       <ul className='list mb-3'>
          {

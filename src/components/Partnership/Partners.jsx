@@ -24,7 +24,7 @@ const gpartner=[
 const Partners = () => {
   return (
     <>
-      <div className='partner m-3 p-3'>
+      <div id="partner" className='partner m-3 p-3'>
         <h4 className='heading '>Our Partners</h4>
         <h5 className='mt-5 ms-5 subhead'>Corporate Partners</h5>
         <div className='row p-5'>
